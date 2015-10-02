@@ -1,3 +1,5 @@
+[![Docker Repository on Quay.io](https://quay.io/repository/donatello/zookeeper/status "Docker Repository on Quay.io")](https://quay.io/repository/donatello/zookeeper)
+
 # Zookeeper in a Docker container #
 
 In this setup, the port configuration is:
